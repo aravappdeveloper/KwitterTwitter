@@ -1,13 +1,13 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-      apiKey: "AIzaSyBayLyC7muSuWt4KlyOyHO3TH1tRtVZhJU",
-      authDomain: "kwitter-twitter.firebaseapp.com",
-      databaseURL: "https://kwitter-twitter-default-rtdb.firebaseio.com",
-      projectId: "kwitter-twitter",
-      storageBucket: "kwitter-twitter.appspot.com",
-      messagingSenderId: "972454400627",
-      appId: "1:972454400627:web:e23466be4ee5dce193d006"
-    };
+    apiKey: "AIzaSyCNJlhFPHeHYtQqvMccitD2cSfVqILumkI",
+    authDomain: "kwitter-july2021.firebaseapp.com",
+    databaseURL: "https://kwitter-july2021-default-rtdb.firebaseio.com",
+    projectId: "kwitter-july2021",
+    storageBucket: "kwitter-july2021.appspot.com",
+    messagingSenderId: "625198059097",
+    appId: "1:625198059097:web:c56e626e44e141855aab48"
+  };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
 
